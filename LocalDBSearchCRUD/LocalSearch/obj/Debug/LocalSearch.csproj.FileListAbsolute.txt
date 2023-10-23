@@ -1,0 +1,13 @@
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\bin\Debug\db_server.mdf
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\bin\Debug\db_server_log.ldf
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\bin\Debug\LocalSearch.exe.config
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\bin\Debug\LocalSearch.exe
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\bin\Debug\LocalSearch.pdb
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\obj\Debug\LocalSearch.csproj.AssemblyReference.cache
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\obj\Debug\LocalSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\obj\Debug\LocalSearch.Browse.resources
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\obj\Debug\LocalSearch.Properties.Resources.resources
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\obj\Debug\LocalSearch.csproj.GenerateResource.cache
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\obj\Debug\LocalSearch.csproj.CoreCompileInputs.cache
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\obj\Debug\LocalSearch.exe
+C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\LocalDBSearchCRUD\LocalSearch\obj\Debug\LocalSearch.pdb
