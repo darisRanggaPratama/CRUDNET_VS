@@ -21,10 +21,12 @@ namespace LocalSearch
 
 		private void Browse_Load(object sender, EventArgs e)
 		{
+            // TODO: This line of code loads data into the 'dataSet.mytable' table. You can move, or remove it, as needed.
+            this.mytableTableAdapter.Fill(this.dataSet.mytable);
 
-		}
+        }
 
-		private void btn_insert_Click(object sender, EventArgs e)
+        private void btn_insert_Click(object sender, EventArgs e)
 		{
 			connection.Open();
 			SqlCommand cmd = connection.CreateCommand();
