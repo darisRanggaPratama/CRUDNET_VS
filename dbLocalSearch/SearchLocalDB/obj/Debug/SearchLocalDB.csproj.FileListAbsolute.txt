@@ -28,3 +28,8 @@ C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\dbLocalSearch\SearchLocalDB\obj
 C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\dbLocalSearch\SearchLocalDB\obj\Debug\SearchLocalDB.csproj.CopyComplete
 C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\dbLocalSearch\SearchLocalDB\obj\Debug\SearchLocalDB.exe
 C:\Users\raden\Documents\UploadGithub\CRUDNET_VS\dbLocalSearch\SearchLocalDB\obj\Debug\SearchLocalDB.pdb
+D:\up2github\CRUDNET_VS\dbLocalSearch\SearchLocalDB\obj\Debug\SearchLocalDB.csproj.AssemblyReference.cache
+D:\up2github\CRUDNET_VS\dbLocalSearch\SearchLocalDB\obj\Debug\SearchLocalDB.Browse.resources
+D:\up2github\CRUDNET_VS\dbLocalSearch\SearchLocalDB\obj\Debug\SearchLocalDB.Properties.Resources.resources
+D:\up2github\CRUDNET_VS\dbLocalSearch\SearchLocalDB\obj\Debug\SearchLocalDB.csproj.GenerateResource.cache
+D:\up2github\CRUDNET_VS\dbLocalSearch\SearchLocalDB\obj\Debug\SearchLocalDB.csproj.CoreCompileInputs.cache
