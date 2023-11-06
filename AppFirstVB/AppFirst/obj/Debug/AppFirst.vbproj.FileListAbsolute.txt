@@ -1,0 +1,12 @@
+D:\up2github\CRUDNET_VS\AppFirstVB\AppFirst\obj\Debug\AppFirst.vbproj.AssemblyReference.cache
+D:\up2github\CRUDNET_VS\AppFirstVB\AppFirst\obj\Debug\AppFirst.HitungUmur.resources
+D:\up2github\CRUDNET_VS\AppFirstVB\AppFirst\obj\Debug\AppFirst.Resources.resources
+D:\up2github\CRUDNET_VS\AppFirstVB\AppFirst\obj\Debug\AppFirst.vbproj.GenerateResource.cache
+D:\up2github\CRUDNET_VS\AppFirstVB\AppFirst\obj\Debug\AppFirst.vbproj.CoreCompileInputs.cache
+D:\up2github\CRUDNET_VS\AppFirstVB\AppFirst\bin\Debug\AppFirst.exe.config
+D:\up2github\CRUDNET_VS\AppFirstVB\AppFirst\bin\Debug\AppFirst.exe
+D:\up2github\CRUDNET_VS\AppFirstVB\AppFirst\bin\Debug\AppFirst.pdb
+D:\up2github\CRUDNET_VS\AppFirstVB\AppFirst\bin\Debug\AppFirst.xml
+D:\up2github\CRUDNET_VS\AppFirstVB\AppFirst\obj\Debug\AppFirst.exe
+D:\up2github\CRUDNET_VS\AppFirstVB\AppFirst\obj\Debug\AppFirst.xml
+D:\up2github\CRUDNET_VS\AppFirstVB\AppFirst\obj\Debug\AppFirst.pdb
