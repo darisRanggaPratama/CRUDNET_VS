@@ -1,16 +1,16 @@
 ﻿Public Class Calculator
-	Dim angka As Double = 0, simbol As String = ""
-	Dim kondisi As Boolean = True
+	Dim number As Double = 0, symbol As String = ""
+	Dim condition As Boolean = True
 	Private Sub btn1_Click(sender As Object, e As EventArgs) Handles btn1.Click, btn2.Click, btn3.Click, btn4.Click, btn5.Click, btn6.Click, btn7.Click, btn8.Click, btn9.Click, btn0.Click
 
 		Dim objectButton As Button
 		objectButton = sender
 
-		If kondisi = True Then
+		If condition = True Then
 			txtInput.Text &= objectButton.Text
 		Else
 			txtInput.Text = objectButton.Text
-			kondisi = True
+			condition = True
 		End If
 
 		'txtInput.Text = txtInput.Text & objectButton.Text Cara lain
@@ -21,12 +21,17 @@
 
 		Dim objectButton As Button
 
+		Try
+			objectButton = sender
+			number = txtInput.Text
+			symbol = objectButton.Text
 
-		objectButton = sender
-		angka = txtInput.Text
-		simbol = objectButton.Text
+			txtInput.Text = ""
 
-		txtInput.Text = ""
+		Catch ex As Exception
+			MessageBox.Show("False calculation: " & vbCrLf & ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+
+		End Try
 	End Sub
 
 	Private Sub btnCE_Click(sender As Object, e As EventArgs) Handles btnCE.Click
@@ -35,20 +40,26 @@
 
 	Private Sub btnEqual_Click(sender As Object, e As EventArgs) Handles btnEqual.Click
 		Dim result As Double
+		Try
+			Select Case symbol
+				Case "+"
+					result = Convert.ToDouble(txtInput.Text) + number
+				Case "-"
+					result = number - Convert.ToDouble(txtInput.Text)
+				Case "*"
+					result = number * Convert.ToDouble(txtInput.Text)
+				Case "/"
+					result = number / Convert.ToDouble(txtInput.Text)
+			End Select
 
-		Select Case simbol
-			Case "+"
-				result = Convert.ToDouble(txtInput.Text) + angka
-			Case "-"
-				result = angka - Convert.ToDouble(txtInput.Text)
-			Case "*"
-				result = angka * Convert.ToDouble(txtInput.Text)
-			Case "/"
-				result = angka / Convert.ToDouble(txtInput.Text)
-		End Select
+		Catch ex As Exception
+			MessageBox.Show("False calculation: " & vbCrLf & ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+
+		End Try
 
 
-		txtInput.Text = result
-		kondisi = False
+		txtInput.Text = result.ToString("N")
+		condition = False
 	End Sub
 End Class
+'Tutorial: https://www.youtube.com/watch?v=hibaqN27oBU

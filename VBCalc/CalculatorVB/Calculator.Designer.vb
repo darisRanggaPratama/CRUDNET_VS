@@ -43,14 +43,14 @@ Partial Class Calculator
 		'
 		'txtInput
 		'
-		Me.txtInput.Font = New System.Drawing.Font("Arial Narrow", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+		Me.txtInput.Font = New System.Drawing.Font("Arial Narrow", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
 		Me.txtInput.ForeColor = System.Drawing.Color.Navy
-		Me.txtInput.Location = New System.Drawing.Point(16, 12)
+		Me.txtInput.Location = New System.Drawing.Point(16, 8)
 		Me.txtInput.Multiline = True
 		Me.txtInput.Name = "txtInput"
-		Me.txtInput.Size = New System.Drawing.Size(456, 47)
+		Me.txtInput.Size = New System.Drawing.Size(360, 51)
 		Me.txtInput.TabIndex = 0
-		Me.txtInput.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
+		Me.txtInput.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
 		'
 		'btn1
 		'
@@ -195,7 +195,7 @@ Partial Class Calculator
 		'btnCE
 		'
 		Me.btnCE.Font = New System.Drawing.Font("Arial Narrow", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-		Me.btnCE.Location = New System.Drawing.Point(400, 80)
+		Me.btnCE.Location = New System.Drawing.Point(400, 8)
 		Me.btnCE.Name = "btnCE"
 		Me.btnCE.Size = New System.Drawing.Size(72, 51)
 		Me.btnCE.TabIndex = 13
@@ -205,7 +205,7 @@ Partial Class Calculator
 		'btnEqual
 		'
 		Me.btnEqual.Font = New System.Drawing.Font("Arial Narrow", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-		Me.btnEqual.Location = New System.Drawing.Point(208, 296)
+		Me.btnEqual.Location = New System.Drawing.Point(400, 80)
 		Me.btnEqual.Name = "btnEqual"
 		Me.btnEqual.Size = New System.Drawing.Size(72, 51)
 		Me.btnEqual.TabIndex = 16
@@ -216,7 +216,7 @@ Partial Class Calculator
 		'
 		Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
 		Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-		Me.ClientSize = New System.Drawing.Size(488, 367)
+		Me.ClientSize = New System.Drawing.Size(488, 292)
 		Me.Controls.Add(Me.btnEqual)
 		Me.Controls.Add(Me.btnDiv)
 		Me.Controls.Add(Me.btnMulti)
