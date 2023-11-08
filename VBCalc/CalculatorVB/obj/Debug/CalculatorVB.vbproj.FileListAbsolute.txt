@@ -1,0 +1,12 @@
+D:\up2github\CRUDNET_VS\VBCalc\CalculatorVB\bin\Debug\CalculatorVB.exe.config
+D:\up2github\CRUDNET_VS\VBCalc\CalculatorVB\bin\Debug\CalculatorVB.exe
+D:\up2github\CRUDNET_VS\VBCalc\CalculatorVB\bin\Debug\CalculatorVB.pdb
+D:\up2github\CRUDNET_VS\VBCalc\CalculatorVB\bin\Debug\CalculatorVB.xml
+D:\up2github\CRUDNET_VS\VBCalc\CalculatorVB\obj\Debug\CalculatorVB.vbproj.AssemblyReference.cache
+D:\up2github\CRUDNET_VS\VBCalc\CalculatorVB\obj\Debug\CalculatorVB.Resources.resources
+D:\up2github\CRUDNET_VS\VBCalc\CalculatorVB\obj\Debug\CalculatorVB.vbproj.GenerateResource.cache
+D:\up2github\CRUDNET_VS\VBCalc\CalculatorVB\obj\Debug\CalculatorVB.vbproj.CoreCompileInputs.cache
+D:\up2github\CRUDNET_VS\VBCalc\CalculatorVB\obj\Debug\CalculatorVB.exe
+D:\up2github\CRUDNET_VS\VBCalc\CalculatorVB\obj\Debug\CalculatorVB.xml
+D:\up2github\CRUDNET_VS\VBCalc\CalculatorVB\obj\Debug\CalculatorVB.pdb
+D:\up2github\CRUDNET_VS\VBCalc\CalculatorVB\obj\Debug\CalculatorVB.Calculator.resources
