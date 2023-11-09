@@ -27,7 +27,6 @@
 			objectButton = sender
 			number = txtInput.Text
 			symbol = objectButton.Text
-
 			txtInput.Text = ""
 
 		Catch ex As Exception
