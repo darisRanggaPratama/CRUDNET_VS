@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿//using System;
+//using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
+//using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
 namespace DataKaryawan
@@ -17,8 +17,7 @@ namespace DataKaryawan
 		public void OpenConnection()
 		{
 			conn = new MySqlConnection(connectString);
-			conn.Open();
-				
+			conn.Open();				
 		}
 
 		public void CloseConnection()
